@@ -29,7 +29,7 @@ player_transfer_distance=50
 
 This mod contains an API for registering and generating new dimensions, or worlds, at different heights in the game world. For this purpose, several methods and functions have been implemented, with many parameters to customize mapgen even more.
 
-Before proceeding, one should at minimum a basic level of understanding of [Lua Programming Language](http://www.lua.org/pil/) and basic programming concepts.
+Before proceeding, one should at minimum have a basic level of understanding of [Lua Programming Language](http://www.lua.org/pil/) and basic programming concepts.
 
 Below is an example of how to register a new dimension using the API:
 
